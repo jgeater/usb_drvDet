@@ -4,3 +4,9 @@ C:\Users\jgeau\Documents\GitHub\usb_drvDet\usb_drvDet\bin\Debug\usb_drvDet.pdb
 C:\Users\jgeau\Documents\GitHub\usb_drvDet\usb_drvDet\obj\Debug\usb_drvDet.exe
 C:\Users\jgeau\Documents\GitHub\usb_drvDet\usb_drvDet\obj\Debug\usb_drvDet.pdb
 C:\Users\jgeau\Documents\GitHub\usb_drvDet\usb_drvDet\obj\Debug\usb_drvDet.csprojResolveAssemblyReference.cache
+C:\Users\jgeat\Documents\GitHub\usb_drvDet\usb_drvDet\bin\Debug\usb_drvDet.exe.config
+C:\Users\jgeat\Documents\GitHub\usb_drvDet\usb_drvDet\bin\Debug\usb_drvDet.exe
+C:\Users\jgeat\Documents\GitHub\usb_drvDet\usb_drvDet\bin\Debug\usb_drvDet.pdb
+C:\Users\jgeat\Documents\GitHub\usb_drvDet\usb_drvDet\obj\Debug\usb_drvDet.csprojResolveAssemblyReference.cache
+C:\Users\jgeat\Documents\GitHub\usb_drvDet\usb_drvDet\obj\Debug\usb_drvDet.exe
+C:\Users\jgeat\Documents\GitHub\usb_drvDet\usb_drvDet\obj\Debug\usb_drvDet.pdb

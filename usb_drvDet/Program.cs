@@ -22,7 +22,7 @@ namespace usb_drvDet
                 {
                     if (drive.DriveType == DriveType.Removable)
                     {
-                        //found a usb drive so shohw a message that always on top and set the varible USBDrv to 1
+                        //found a usb drive so show a message that always on top and set the varible USBDrv to 1
                         MessageBox.Show("Please remove the the USB drive and Click OK to Continue", "USB Drive Detected", MessageBoxButtons.OK, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1, MessageBoxOptions.ServiceNotification);
                         USBDrv = 1;
                     }
